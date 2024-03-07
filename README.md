@@ -1,6 +1,8 @@
-# unity-game-design-intro
-A Unity project that helps users understand game design basics.
+# Week_14_Assignment_01
+# This is my initial project for week 14.
 
+# unity-game-design-intro
+From the [MIT xPRO Professional Certificate in Game Design](https://classroom.emeritus.org/courses/3798).  This is a Unity project that helps users understand game design basics.  It contains several game prototypes.
 
 # Versioning
 The project was created with Unity 2021.3.5f1, a Long Term Support version.
