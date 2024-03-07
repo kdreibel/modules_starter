@@ -1,6 +1,8 @@
 # Week_14_Assignment_01
 # This is my initial project for week 14.
 
+![screenshot](https://raw.githubusercontent.com/kdreibel/modules_starter/main/screenshot.jpg)
+
 # unity-game-design-intro
 From the [MIT xPRO Professional Certificate in Game Design](https://classroom.emeritus.org/courses/3798).  This is a Unity project that helps users understand game design basics.  It contains several game prototypes.
 
